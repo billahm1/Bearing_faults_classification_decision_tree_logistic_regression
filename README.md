@@ -5,7 +5,7 @@
 - Logistic Regression
 - Decision Tress
 - Summary
-- Refrences
+- References
 # Overview
 In this project,  various popular machine learning algorithms are applied for different datasets as a classification problems. 
 # Problem Formulation 
