@@ -17,5 +17,7 @@ The time-series vibration data of healthy and faulty bearings are used in this c
 # Summary
 # References
 For further readings:
-1. https://medium.com/@ashwin8april/dimensionality-reduction-and-visualization-using-pca-principal-component-analysis-8489b46c2ae0
+1. https://www.kaggle.com/datasets/brjapon/cwru-bearing-datasets
+2. https://engineering.case.edu/bearingdatacenter/download-data-file
+3. https://medium.com/@ashwin8april/dimensionality-reduction-and-visualization-using-pca-principal-component-analysis-8489b46c2ae0
 
